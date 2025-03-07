@@ -9,6 +9,15 @@ This is a responsive Netflix clone that I made using HTML and CSS. The goal of t
 - Footer with links and a similar design to the official Netflix site
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/fc446be7-9942-4325-b2dc-49c41adcbb87)
+
+![Image](https://github.com/user-attachments/assets/a3e34178-6d42-4870-bf59-4be9b36dea1e)
+
+![Image](https://github.com/user-attachments/assets/4abcc524-7ca2-43f7-a042-327caf278a5e)
+
+![Image](https://github.com/user-attachments/assets/e472d5f5-9a3f-4cfd-a92f-6d81797e9b9e)
+
+![Image](https://github.com/user-attachments/assets/40928418-4fe5-490b-af26-62f6b369597d)
 
 ## Technologies Used
 - HTML
