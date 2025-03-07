@@ -25,9 +25,9 @@ This is a responsive Netflix clone that I made using HTML and CSS. The goal of t
 - Flexbox/Grid Layout
 
 ## Responsive Design
-The design is responsive, adapting for mobile, tablet, and desktop views. It uses CSS media queries to ensure that the layout looks good on various screen sizes.
--Screenshots of Responsive Design
-a) For mobile devices (max width:480px)
+The design is responsive, adapting for mobile, tablet, and desktop views. It uses CSS media queries to ensure that the layout looks good on various screen sizes.\n
+-Screenshots of Responsive Design\n
+a) For mobile devices (max width:480px)\n
 ![Image](https://github.com/user-attachments/assets/7a2b9981-3c4a-4278-8c21-f86a9d603eda)
 
 ![Image](https://github.com/user-attachments/assets/3ed342be-d6d1-45bc-b95b-cb7b27af8eed)
