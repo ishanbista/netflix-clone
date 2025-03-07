@@ -34,29 +34,14 @@ a) For mobile devices (max width:480px)
   <img src="https://github.com/user-attachments/assets/7a2b9981-3c4a-4278-8c21-f86a9d603eda" alt="Image 1" width="300">
   <br>
   <img src="https://github.com/user-attachments/assets/3ed342be-d6d1-45bc-b95b-cb7b27af8eed" alt="Image 2" width="300">
+  <br>
+  <img src="https://github.com/user-attachments/assets/4da16ee5-e318-4f47-910b-0c1e85c5ba50" alt="Image 1" width="300">
+  <br>
+  <img src="https://github.com/user-attachments/assets/737632fa-4705-44a0-b082-b2fb7cf0adaf" alt="Image 1" width="300">
+  <br>
+  <img src="https://github.com/user-attachments/assets/afb7cbcb-d869-47ad-b27d-efabca124469" alt="Image 1" width="300">
+  
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Image](https://github.com/user-attachments/assets/7a2b9981-3c4a-4278-8c21-f86a9d603eda)
-
-![Image](https://github.com/user-attachments/assets/3ed342be-d6d1-45bc-b95b-cb7b27af8eed)
-
-![Image](https://github.com/user-attachments/assets/4da16ee5-e318-4f47-910b-0c1e85c5ba50)
-
-![Image](https://github.com/user-attachments/assets/737632fa-4705-44a0-b082-b2fb7cf0adaf)
-
-![Image](https://github.com/user-attachments/assets/afb7cbcb-d869-47ad-b27d-efabca124469)
 
 b) For tablet devices (max width: 768px)
 
