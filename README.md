@@ -26,7 +26,8 @@ This is a responsive Netflix clone that I made using HTML and CSS. The goal of t
 
 ## Responsive Design
 The design is responsive, adapting for mobile, tablet, and desktop views. It uses CSS media queries to ensure that the layout looks good on various screen sizes.<br>
--Screenshots of Responsive Design <br>
+-Screenshots of Responsive Design   
+
 a) For mobile devices (max width:480px)
 ![Image](https://github.com/user-attachments/assets/7a2b9981-3c4a-4278-8c21-f86a9d603eda)
 
